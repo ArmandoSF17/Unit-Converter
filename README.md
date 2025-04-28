@@ -24,9 +24,9 @@ The app is built using HTML, CSS, and JavaScript, and it provides an intuitive i
 1. **Input** a value into the input field.
 2. Click the **"Convert"** button to see the conversion results.
 3. The output will display:
-   - Length (Meters/Feet)
-   - Volume (Liters/Gallons)
-   - Mass (Kilograms/Pounds)
+   - Length (Meters/Feet and Feet/Meters)
+   - Volume (Liters/Gallons and Gallons/Liters)
+   - Mass (Kilograms/Pounds and Pounds/Kilograms)
 
 ## Technologies Used
 
