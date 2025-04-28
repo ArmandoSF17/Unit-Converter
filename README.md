@@ -1,6 +1,14 @@
 # Metric/Imperial Unit Converter
 
-This is a simple web-based application that converts values between Metric and Imperial units. It allows users to input values and convert between:
+
+This is a simple web-based application that converts values between Metric and Imperial units. 
+
+🌐 **Live Demo**: [UnitConverter](https://unitconverternew.netlify.app/)
+
+![UnitConverter Screenshot](/screenshot.png)
+
+
+It allows users to input values and convert between:
 
 - **Length**: Meters to Feet and vice versa
 - **Volume**: Liters to Gallons and vice versa
